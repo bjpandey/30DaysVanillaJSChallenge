@@ -6,12 +6,12 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-***Challenge Day 1*** | 
------------- | 
-Learned about pull request templete ```PULL_REQUEST_TEMPLATE.md``` |
-audio play() method and its function | 
-transitionend types and event | 
-audio tags and it's properties |
+***Challenge Day 1
+
+Learned about pull request templete ```PULL_REQUEST_TEMPLATE.md``` 
+audio play() method and its function 
+transitionend types and event 
+audio tags and it's properties
 
 ***Challenge Day 2*** | 
 ------------ | 
