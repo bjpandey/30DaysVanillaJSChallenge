@@ -26,3 +26,9 @@ An idea about this.dataset i.e. object of html data property,
 Css variable value changing from Javascript and from mousemove, 
 Get idea about the control inputs and color switcher input, 
 Got some Insights about nodeList and array's properties in js
+
+***Challenge Day 4***
+Learned about sort, reduce, map, filter function in Array 
+
+***Challenge Day 5***
+Learned to display in flex, foreach function and eventlistener and classlist
